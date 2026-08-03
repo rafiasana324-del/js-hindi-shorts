@@ -14,7 +14,7 @@ console.log(mail);
 //APIS
 //json syntax 
 {
-    "name":"rafia",
-    "age":"18",
-    "work":"FED"
+    "name" = "rafia",
+    "age" = "18",
+    "work" = "FED"
 }
